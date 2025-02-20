@@ -3,7 +3,7 @@
 Hi, I'm **Liturgy**, the creator of **RenJSₗᵢₜ**.  
 
 ## RenJSₗᵢₜ
-RenJSₗᵢₜ is a JavaScript framework that brings Ren'Py’s signature style to **static HTML visual novels**. What sets it apart is its ability to **interpret Ren'Py screenplay script** within backticks to seamlessly display scenes.  
+RenJSₗᵢₜ is a JavaScript framework that brings Ren'Py’s signature style to **static HTML visual novels**. What sets it apart is its ability to **interpret custom Ren'Py script** within backticks to display scenes, which makes the writing process more enjoyable.  
 
 The framework is already advanced enough for my needs, with **rollback as the only critical missing feature**—currently in development and soon to be implemented.  
 
