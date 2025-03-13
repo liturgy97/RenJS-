@@ -1,15 +1,14 @@
-# REenJS README
+## 🎨 RenJSₗᵢₜ VSCode Extension
 
-## Overview
+A companion **VSCode extension** is also in development to streamline the scripting process.
 
-The RenJS extension is designed to enhance the coding experience for developers working with the RenJS framework. This extension incorporates a selection of sophisticated features aimed at improving productivity and streamlining the development process.
+### ✅ Current Features:
 
-## Key Features
+- **Label jump** (Hold `Ctrl` to navigate)
+- **Highlighting unclosed quotes**
+- **Character name colorization**
 
-- Intuitive Hover Functionality: Effortlessly access contextual information through a hover effect on strings that begin with the $ symbol. This feature provides immediate clarity and insight into your code.
+### 🚀 Upcoming Features:
 
-- Enhanced Navigation: By holding the Ctrl key, users can establish a direct link to the corresponding function, facilitating efficient code navigation and minimizing disruption to your workflow.
-
-## Release Notes
-
-This extension marks its inaugural release, and we acknowledge that ongoing enhancements and optimizations are in progress to further refine its capabilities.
+- **Better formatting** within backticks
+- **Auto-indentation**
