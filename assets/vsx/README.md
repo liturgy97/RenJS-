@@ -1,6 +1,6 @@
 ## 🎨 RenJSₗᵢₜ VSCode Extension
 
-A companion **VSCode extension** is also in development to streamline the scripting process.
+A companion to **RenJSₗᵢₜ** to streamline the scripting process.
 
 ### ✅ Current Features:
 
